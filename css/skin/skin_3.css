@@ -1,0 +1,54 @@
+.header nav ul li a:hover{
+	background: #08BECE;
+	color: white;
+}
+.header_big{
+	background: rgba(8,190,206,0.2);
+}
+.left h4{
+	background: rgba(8,190,206,0.2) ;
+}
+.left .top ul li p a:hover{
+	color: #08BECE ;
+}
+.new .next,.new .prev{
+	background: rgba(8,190,206,0.2) ;
+}
+.footer_big{
+	background: rgba(8,190,206,0.2);
+}
+.footer_big footer ul{
+	border-top: 1px solid #7a7a7a;
+    border-bottom: 1px solid #7a7a7a;
+}
+.jeans .top a{
+	background: #08BECE;
+}
+.tabs a{
+	background: rgba(0,0,0,0.5);
+}
+.tabs .bian{
+    background: #08BECE;
+}
+.tab .tab_menu li{
+	border: 1px solid #08BECE;
+	background:#FFFFFF; 
+}
+.pro_detail .pro_detail_left .tab .tab_menu li:hover{
+	background: rgba(8,190,206,0.4);
+}
+.pro_detail_left .tab_menu li.selected { 
+	color:#FFF; 
+	background:#08BECE;
+}
+.pro_detail .pro_detail_left .tab .tab_box{
+	border: 1px solid #08BECE;
+}
+#cart a{
+	background: url(../../images/gouwuche_03.png) no-repeat 20px 11px,
+	#08BECE;
+}
+.pro_detail .pro_detail_left .jqzoom span a{
+	background: url(../../images/detail_fangda.png) no-repeat 7px 7px,
+    rgba(8,190,206,0.6);
+}
